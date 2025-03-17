@@ -44,8 +44,8 @@ Never miss profitable opportunities again! Our AI-powered bot offers:
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/solana-flash-trader.git
-cd solana-flash-trader
+git clone https://github.com/devaxisb/solana-copy-trading-bot.git
+cd solana-copy-trading-bot-main
 
 # Install dependencies
 npm install

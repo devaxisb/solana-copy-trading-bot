@@ -51,8 +51,7 @@ cd solana-copy-trading-bot-main
 npm install
 
 # Add wallets to track
-echo "TARGET_WALLET_1" >> wallets.txt
-echo "TARGET_WALLET_2" >> wallets.txt
+wallets.txt
 
 # Start the bot
 npm run start

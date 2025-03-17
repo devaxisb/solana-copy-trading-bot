@@ -57,7 +57,9 @@ echo "TARGET_WALLET_2" >> wallets.txt
 # Start the bot
 npm run start
 
-🤝 Contributing
+```
+
+## 🤝 Contributing
 
 We welcome contributions! Please follow these steps:
 
@@ -67,7 +69,7 @@ Commit changes (git commit -m 'Add some AmazingFeature')
 Push to branch (git push origin feature/AmazingFeature)
 Open a Pull Request
 
-🔒 Security
+## 🔒 Security
 
 Security Shield
 
@@ -87,6 +89,6 @@ Never stores private keys
 Open-source verification
 Regular security audits
 
-📜 Disclaimer
+## 📜 Disclaimer
 
 ⚠️ Important: Trading cryptocurrencies carries risk. Never invest more than you can afford to lose. This software is provided "as is" without warranty of any kind.

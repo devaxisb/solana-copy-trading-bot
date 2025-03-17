@@ -59,6 +59,7 @@ npm run start
 ```
 
 ## 🤝 Contributing
+```bash
 
 We welcome contributions! Please follow these steps:
 
@@ -67,6 +68,7 @@ Create your feature branch (git checkout -b feature/AmazingFeature)
 Commit changes (git commit -m 'Add some AmazingFeature')
 Push to branch (git push origin feature/AmazingFeature)
 Open a Pull Request
+```
 
 ## 🔒 Security
 

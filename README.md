@@ -81,16 +81,7 @@ Your safety is our priority:
 End-to-end transaction encryption
 Never stores private keys
 Open-source verification
-Regular security audits🔒 Security
-
-Security Shield
-
-Your safety is our priority:
-
-End-to-end transaction encryption
-Never stores private keys
-Open-source verification
-Regular security audits
+Regular security audits🔒
 
 ## 📜 Disclaimer
 

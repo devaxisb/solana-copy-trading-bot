@@ -9,12 +9,6 @@
 [![Maintenance](https://img.shields.io/badge/Maintenance-Actively%20Developed-orange)](https://github.com/devaxisb/solana-copy-trading-bot)
 [![License](https://img.shields.io/badge/License-MIT-blue)](https://github.com/devaxisb/solana-copy-trading-bot)
 
-<div align="center">
-  <img src="https://via.placeholder.com/100.png?text=⚡" alt="Speed Icon">
-  <img src="https://via.placeholder.com/100.png?text=🛡️" alt="Security Icon">
-  <img src="https://via.placeholder.com/100.png?text=📈" alt="Analytics Icon">
-</div>
-
 **The Ultimate Solution for Automated Solana Trading**  
 Never miss profitable opportunities again! Our AI-powered bot offers:
 

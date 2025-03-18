@@ -10,7 +10,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue)](https://github.com/devaxisb/solana-copy-trading-bot)
 
 **The Ultimate Solution for Automated Solana Trading**  
-Never miss profitable opportunities again! Our AI-powered bot offers:
+Never miss profitable opportunities again! Our bot offers:
 
 - 🚨 **Instant Copy Trading** - Mirror top traders in real-time
 - ⚡ **30ms Execution Speed** - Outpace MEV bots and front-runners

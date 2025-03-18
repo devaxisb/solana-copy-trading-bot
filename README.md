@@ -1,6 +1,6 @@
 # 🔥 Solana CopyTrading Bot 🚀
 
-![Bot Demo](soon)
+![Bot Demo](https://i.ibb.co/TMyLkDwJ/2025-03-17-09-42-35.png)
 *Real-time copy trading engine for Solana ecosystem*
 
 ## 🌟 Why Choose This Bot?

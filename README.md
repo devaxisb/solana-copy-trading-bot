@@ -66,8 +66,6 @@ npm run start
 
 ```
 
-⚠️ Warning: Once You Go COB, You Never Go Back
-
 ## 🤝 Contributing
 ```bash
 

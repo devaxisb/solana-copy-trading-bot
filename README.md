@@ -78,10 +78,10 @@ Security Shield
 
 Your safety is our priority:
 
-End-to-end transaction encryption
-Never stores private keys
-Open-source verification
-Regular security audits🔒
+1. End-to-end transaction encryption
+2. Never stores private keys
+3. Open-source verification
+4. Regular security audits🔒
 
 ## 📜 Disclaimer
 

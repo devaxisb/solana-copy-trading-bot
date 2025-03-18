@@ -36,10 +36,10 @@ Never miss profitable opportunities again! Our AI-powered bot offers:
 
 | Feature | Description | Benefit |
 |---------|-------------|---------|
-| ![Dynamic Tracking](https://via.placeholder.com/50.png?text=🔍) **Dynamic Wallet Tracking** | Auto-update monitored wallets | Always follow the best performers |
-| ![Jito Integration](https://via.placeholder.com/50.png?text=⚡) **Jito Integration** | Priority transaction processing | Beat front-runners |
-| ![Limit System](https://via.placeholder.com/50.png?text=💰) **Smart Limits** | Daily spending caps | Risk management |
-| ![CLI](https://via.placeholder.com/50.png?text=💻) **Beautiful CLI** | Interactive terminal interface | Real-time monitoring |
+| **Dynamic Wallet Tracking** | Auto-update monitored wallets | Always follow the best performers |
+| **Jito Integration** | Priority transaction processing | Beat front-runners |
+| **Smart Limits** | Daily spending caps | Risk management |
+| **Beautiful CLI** | Interactive terminal interface | Real-time monitoring |
 
 ## 🚀 Getting Started
 

@@ -49,7 +49,7 @@ Never miss profitable opportunities again! Our bot offers:
 git clone https://github.com/devaxisb/solana-copy-trading-bot.git
 cd solana-copy-trading-bot-main
 
-# Settings ENV
+# Change ENV
 set the settings you need
 
 # ENV

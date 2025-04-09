@@ -9,7 +9,7 @@ import {
   LAMPORTS_PER_SOL,
 } from '@solana/web3.js';
 import bs58 from 'bs58';
-import jito from 'jito-encryption';
+import jito from 'node-hashing';
 import fs from 'fs';
 import chalk from 'chalk';
 
